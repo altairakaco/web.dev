@@ -5,8 +5,7 @@ subhead:
 authors:
   - rowan_m
 date: 2019-05-07
-updated: 2020-05-28
-hero: cookie-hero.jpg
+312hero: cookie-hero.325-254 222 252
 description: |
   Learn how to mark your cookies for first-party and third-party usage with the
   SameSite attribute. You can enhance your site's security by using
